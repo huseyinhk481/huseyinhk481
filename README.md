@@ -1,32 +1,33 @@
 # Hi, I'm Hüseyin Kargın 👋
 
-### 🚀 Remote Backend Developer | Automation & AI Integrations
+🚀 **Remote Data Scientist & ML Developer | Backend & Automation**
 
-I am a disciplined and process-oriented Backend Developer focused on building scalable systems, optimizing API performance, and architecting automated data pipelines. I love breaking complex problems into clean, maintainable micro-components.
+I am a disciplined, process-oriented developer, focused on the mathematical and statistical foundations of Machine Learning, advanced data pipelines, and scalable backend architectures. I specialize in structuring complex data, uncovering hidden patterns through rigorous analysis, and turning predictive models into clean, maintainable micro-components.
 
 ---
 
 ### 🛠️ Tech Stack & Toolbox
 
-* **Languages:** Python (Strong), SQL
-* **Frameworks & Libraries:** FastAPI, PyTorch (Learning & Exploring)
-* **Automation & Orchestration:** n8n, Webhooks, API Integrations
-* **Databases & Tools:** SQLit, Git, GitHub, Docker
+* **Data Science & ML:** Python (Pandas, NumPy, Scikit-Learn, Seaborn), Statistical Analysis, Predictive Modeling, Machine Learning (Regression & Classification), PyTorch (Exploring Deep Learning).
+* **Backend & Databases:** FastAPI, SQLite, API Design & Optimization.
+* **Automation:** n8n, Webhooks.
 
 ---
 
 ### 📈 What I'm Currently Working On
 
-* 🧠 Deepening my expertise in Deep Learning workflows using **PyTorch**.
-* ⚙️ Architecting efficient, event-driven automation workflows with **n8n**.
-* 🌍 Actively seeking a **Remote Backend Developer** role in an international engineering team.
+* 🧠 **Advanced Analytics & ML:** Diving deep into statistical modeling, hyperparameter tuning, and data preprocessing pipelines.
+* 📊 **Spotify Hit Analysis:** Recently built a Random Forest model analyzing 114k+ tracks to uncover how acoustic features and track duration mathematically dictate modern streaming popularity.
+* ⚙️ **Automation Workflows:** Architecting efficient, event-driven automation pipelines with n8n to connect data streams seamlessly.
+* 🌍 **Global Collaboration:** Actively seeking a **Remote Data Scientist / ML Developer / Data Specialist** role within an international engineering team.
 
 ---
 
 ### 🤝 Let's Connect!
 
-* **LinkedIn:** www.linkedin.com/in/huseyinkargin
+* **LinkedIn:** [linkedin.com/in/huseyinkargin](https://www.linkedin.com/in/huseyinkargin)
 * **Email:** h5337080@gmail.com
 
 ---
-*“Focus on the process, optimize the steps, and let the results follow.”*
+
+> *"Focus on the process, optimize the steps, and let the mathematical insights follow."*
