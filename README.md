@@ -25,7 +25,7 @@ I am a disciplined, process-oriented developer, focused on the mathematical and 
 
 ### 🤝 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/huseyinkargin](https://www.linkedin.com/in/huseyinkargin)
+* **LinkedIn:** [linkedin.com/in/huseyinkargin](https://www.linkedin.com/in/huseyin-kargin)
 * **Email:** h5337080@gmail.com
 
 ---
